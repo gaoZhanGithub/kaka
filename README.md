@@ -1,11 +1,17 @@
+## antd-mobile demo with roadhog, dva
 
-## dva + TypeScript + atool-build
+Include below common usage:
+
+- custom svg config
+- rem config
+- custom theme config
 
 ### dev
-- Run `npm install`
-- `npm start`
-- [http://localhost:8989](http://localhost:8989)
 
-### build
+```
+npm install
+npm start
+```
 
-    npm run build
+http://localhost:8000/
+
